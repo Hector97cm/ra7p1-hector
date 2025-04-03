@@ -15,3 +15,4 @@ Adaptació del Projecte Pokémon MVVM a Vue
     hectorcalvo66@gmail.com
 
 Projecte acabat.
+He configurat l'access per SSH. Ara ho probaré per PersonalToken
